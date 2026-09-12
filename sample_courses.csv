@@ -1,0 +1,16 @@
+course_name,category,description,instructor,rating
+Python for Everybody,Programming,Learn Python programming from scratch covering variables loops functions and data structures for beginners,Dr. Chuck,4.8
+Machine Learning A-Z,Data Science,Hands on machine learning course covering regression classification clustering and deep learning basics using Python,Kirill Eremenko,4.6
+Introduction to SQL,Data Science,Learn how to write SQL queries to filter join and aggregate data from relational databases,Jose Portilla,4.5
+Web Development Bootcamp,Web Development,Full stack web development course covering HTML CSS JavaScript React and Node.js building real projects,Angela Yu,4.7
+Deep Learning Specialization,Data Science,Neural networks convolutional networks recurrent networks and deep learning applications with TensorFlow,Andrew Ng,4.9
+Data Structures and Algorithms,Programming,Master data structures like arrays trees graphs and algorithms including sorting and searching for coding interviews,Abdul Bari,4.7
+React - The Complete Guide,Web Development,Build modern single page applications with React hooks context API and Redux state management,Maximilian Schwarzmuller,4.6
+Cloud Computing with AWS,Cloud Computing,Introduction to Amazon Web Services covering EC2 S3 Lambda and cloud architecture fundamentals,Stephane Maarek,4.5
+Business Analytics with Excel,Business,Learn data analysis and visualization using Excel pivot tables formulas and dashboards for business decisions,Chris Dutton,4.4
+Cybersecurity Fundamentals,Cybersecurity,Introduction to network security cryptography ethical hacking and protecting systems from cyber threats,Nathan House,4.6
+Natural Language Processing,Data Science,Learn NLP techniques including tokenization sentiment analysis and transformers for text data,Lazy Programmer,4.5
+UI UX Design Fundamentals,Design,Learn design thinking wireframing prototyping and user research to build intuitive user interfaces,Daniel Scott,4.6
+Docker and Kubernetes,Cloud Computing,Containerize applications with Docker and orchestrate them at scale using Kubernetes,Mumshad Mannambeth,4.7
+Java Programming Masterclass,Programming,Comprehensive Java course covering object oriented programming collections and building real applications,Tim Buchalka,4.6
+Digital Marketing Fundamentals,Business,Learn SEO social media marketing content strategy and Google Ads to grow an online business,Phil Ebiner,4.4
