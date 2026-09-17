@@ -1,0 +1,31 @@
+course_id,title,description,tags,difficulty,prerequisites,rating
+101,Intro to Python,"Learn Python syntax, variables, loops and functions from scratch",python;programming;beginner,beginner,,4.6
+102,Data Structures Fundamentals,"Arrays, linked lists, stacks, queues and hash tables",dsa;data-structures;algorithms,intermediate,101,4.7
+103,Algorithms and Complexity,"Sorting, searching, recursion and Big-O analysis",dsa;algorithms;complexity,intermediate,102,4.8
+104,Graphs and Trees,"Graph representation, BFS, DFS and tree traversals",dsa;graphs;trees,intermediate,102,4.5
+105,Dynamic Programming,"Memoization, tabulation and classic DP problems",dsa;algorithms;dynamic-programming,advanced,103,4.9
+106,Machine Learning Basics,"Supervised learning, regression and classification",ml;ai;statistics,intermediate,101,4.4
+107,Natural Language Processing,"Text processing, TF-IDF and word embeddings",ml;nlp;text,advanced,106,4.3
+108,Recommendation Systems,Collaborative and content-based filtering,ml;recsys;algorithms,advanced,106;107,4.6
+109,Web Development with HTML and CSS,Build and style static web pages,web;frontend;html,beginner,,4.2
+110,JavaScript Essentials,"DOM manipulation, events and fetch API",web;frontend;javascript,intermediate,109,4.5
+111,Backend APIs with FastAPI,Build REST APIs with request validation,web;backend;api,intermediate,101,4.7
+112,Databases and SQL,"Relational modeling, joins and indexing",db;sql;backend,intermediate,101,4.4
+113,Operating Systems,"Processes, threads, scheduling and memory",systems;os;concurrency,intermediate,101,4.3
+114,Computer Networks,"TCP/IP, HTTP and network layers",systems;networks,intermediate,101,4.1
+115,Git and Version Control,"Branching, merging and collaborative workflows",tools;git;devops,beginner,,4.6
+116,Docker and Containers,Containerize and deploy applications,tools;devops;docker,intermediate,115,4.5
+117,Linear Algebra for ML,"Vectors, matrices and eigenvalues",math;ml;linear-algebra,intermediate,,4.2
+118,Probability and Statistics,"Distributions, hypothesis testing and Bayes",math;statistics;probability,intermediate,,4.4
+119,Deep Learning,"Neural networks, backpropagation and CNNs",ml;deep-learning;ai,advanced,106;117,4.8
+120,Data Visualization,Charts and dashboards with matplotlib and seaborn,data;visualization;python,beginner,101,4.3
+121,Pandas for Data Analysis,"DataFrames, cleaning and aggregation",data;python;pandas,intermediate,101,4.6
+122,SQL for Data Science,Querying and transforming data at scale,data;sql;analytics,intermediate,112,4.4
+123,Competitive Programming,Speed problem solving and contest strategies,dsa;algorithms;contest,advanced,103;104,4.7
+124,System Design Basics,"Scalability, caching and load balancing",systems;design;backend,advanced,111;113,4.5
+125,Cloud Computing Fundamentals,AWS core services and deployment models,cloud;devops;aws,intermediate,115,4.2
+126,Cybersecurity Essentials,"Threats, encryption and secure coding",security;networks;crypto,intermediate,114,4.3
+127,Mobile App Development,Build cross-platform apps with React Native,mobile;frontend;javascript,intermediate,110,4.1
+128,Testing and CI/CD,"Unit testing, pytest and automated pipelines",tools;testing;devops,intermediate,115,4.4
+129,Reinforcement Learning,"Agents, rewards and Q-learning",ml;ai;reinforcement,advanced,119,4.5
+130,Big Data with Spark,Distributed processing and MapReduce,data;bigdata;spark,advanced,121;122,4.3

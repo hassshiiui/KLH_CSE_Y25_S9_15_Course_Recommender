@@ -1,0 +1,9 @@
+user_id,name,interests,skill_level,completed_courses
+1,Hasi,python;dsa;algorithms,intermediate,101;102
+2,Aarav,ml;ai;nlp,beginner,101
+3,Meera,web;frontend;javascript,intermediate,109
+4,Rohan,data;python;pandas,beginner,
+5,Ishita,ml;deep-learning;ai,advanced,101;106;117
+6,Kabir,systems;networks;security,intermediate,101;114
+7,Sara,dsa;graphs;trees,intermediate,101;102;103
+8,Vikram,cloud;devops;docker,beginner,115
