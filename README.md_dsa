@@ -1,0 +1,59 @@
+# Course Recommendation System (DSA Project)
+
+A content-based course recommendation engine that suggests courses to learners
+based on their interests, skill level, and completed courses. Built to showcase
+core Data Structures & Algorithms concepts.
+
+## Problem Statement
+
+Learners on online platforms are overwhelmed by thousands of courses and often
+pick the wrong next step. This project recommends relevant courses by combining
+text similarity (TF-IDF + cosine similarity) with a graph model of course
+prerequisites, so recommendations respect both interest and learning order.
+
+## Features
+
+- Content-based recommendations using TF-IDF and cosine similarity
+- k-Nearest Neighbors over course feature vectors
+- Graph-based "next course" suggestions via BFS over prerequisites
+- Filtering by difficulty and skill level
+- REST API to serve recommendations
+- Simple web frontend to query and display results
+
+## Tech Stack
+
+- Python 3.10+
+- pandas, numpy, scikit-learn
+- FastAPI + uvicorn (backend)
+- HTML / CSS / JavaScript (frontend)
+
+## Project Structure
+
+```
+course-recommender-dsa/
+├── data/          # datasets (courses, users)
+├── notebooks/     # exploratory analysis
+├── src/           # core logic (preprocessing, recommender)
+├── backend/       # FastAPI application
+├── frontend/      # web UI
+├── tests/         # unit tests
+└── models/        # saved model artifacts
+```
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+python backend/app.py
+```
+
+## DSA Concepts Used
+
+- Cosine similarity over sparse vectors
+- k-NN search
+- Graph traversal (BFS) for prerequisite chains
+- Time/space complexity analysis of each recommender
+
+## License
+
+MIT
