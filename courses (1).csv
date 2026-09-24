@@ -1,0 +1,21 @@
+course_id,title,category,level,description,skills
+1,Python for Beginners,Programming,Beginner,Learn Python syntax variables loops functions and write your first programs,python;programming;basics
+2,Advanced Python Programming,Programming,Advanced,Master decorators generators concurrency and design patterns in Python,python;oop;design patterns
+3,Data Analysis with Pandas,Data Science,Intermediate,Clean transform and analyze tabular data using pandas and NumPy,python;pandas;numpy;data cleaning
+4,Data Visualization with Matplotlib and Seaborn,Data Science,Intermediate,Create charts and dashboards to communicate insights from data,python;matplotlib;seaborn;visualization
+5,Statistics for Data Science,Data Science,Beginner,Probability distributions hypothesis testing and regression fundamentals,statistics;probability;regression
+6,Machine Learning Fundamentals,Machine Learning,Intermediate,Supervised and unsupervised learning with scikit-learn including model evaluation,machine learning;scikit-learn;classification;regression
+7,Deep Learning with TensorFlow,Machine Learning,Advanced,Build neural networks CNNs and RNNs using TensorFlow and Keras,deep learning;tensorflow;neural networks
+8,Natural Language Processing,Machine Learning,Advanced,Text preprocessing embeddings sentiment analysis and transformer models,nlp;text mining;transformers
+9,Recommender Systems,Machine Learning,Advanced,Content based collaborative filtering and hybrid recommendation algorithms,recommendation;collaborative filtering;similarity
+10,SQL for Data Analysis,Databases,Beginner,Query relational databases with SELECT joins aggregations and window functions,sql;databases;joins
+11,Database Design and Modeling,Databases,Intermediate,Design normalized schemas entity relationship diagrams and indexes,sql;database design;normalization
+12,HTML and CSS Basics,Web Development,Beginner,Build responsive web pages with semantic HTML and modern CSS,html;css;responsive design
+13,JavaScript Essentials,Web Development,Beginner,Learn JavaScript fundamentals DOM manipulation and asynchronous programming,javascript;dom;async
+14,React for Frontend Development,Web Development,Intermediate,Build interactive user interfaces with React components hooks and state,react;javascript;frontend
+15,Backend Development with Flask,Web Development,Intermediate,Create REST APIs and web apps with Flask and SQLAlchemy,python;flask;rest api;backend
+16,Git and GitHub Essentials,Tools,Beginner,Version control with Git branches commits pull requests and collaboration,git;github;version control
+17,Cloud Computing Fundamentals,Cloud,Beginner,Introduction to cloud services virtual machines storage and deployment,cloud;aws;deployment
+18,Docker and Kubernetes,Cloud,Intermediate,Containerize applications and orchestrate them with Kubernetes,docker;kubernetes;devops
+19,Cybersecurity Basics,Security,Beginner,Understand threats encryption authentication and secure coding practices,security;encryption;authentication
+20,Data Structures and Algorithms,Computer Science,Intermediate,Arrays trees graphs sorting searching and complexity analysis,algorithms;data structures;problem solving
